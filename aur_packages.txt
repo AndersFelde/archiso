@@ -1,0 +1,9 @@
+i3lock-color
+betterlockscreen
+eww
+qtile-extras
+visual-studio-code-bin
+dotter-rs-bin
+python-pulsectl-asyncio
+paru-bin
+zoxide
