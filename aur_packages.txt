@@ -12,3 +12,4 @@ tmux-plugin-manager
 oh-my-zsh-git
 lunarvim-git
 neovim-remote
+mkinitcpio-clevis-hook
