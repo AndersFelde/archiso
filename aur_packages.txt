@@ -7,3 +7,8 @@ dotter-rs-bin
 python-pulsectl-asyncio
 paru-bin
 zoxide
+python-pulsectl
+tmux-plugin-manager
+oh-my-zsh-git
+lunarvim-git
+neovim-remote

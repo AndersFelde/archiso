@@ -1,7 +1,6 @@
 git
 alacritty
-nvim
-vim
+neovim
 zsh
 tmux
 xsettingsd
@@ -33,3 +32,11 @@ bat
 lsd
 man
 wget
+python-psutil
+python-dbus-next
+vim
+lxappearance
+arc-gtk-theme
+pavucontrol
+pulseaudio-alsa
+archlinux-wallpaper
